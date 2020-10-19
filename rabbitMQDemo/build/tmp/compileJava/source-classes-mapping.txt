@@ -1,0 +1,8 @@
+com/rabbitmq/rabbitMQDemo/RabbitMqDemoApplication.java
+ com.rabbitmq.rabbitMQDemo.RabbitMqDemoApplication
+com/rabbitmq/service/RabbitMQSender.java
+ com.rabbitmq.service.RabbitMQSender
+com/rabbitmq/controller/RabbitController.java
+ com.rabbitmq.controller.RabbitController
+com/rabbitmq/config/RabbitMQConfig.java
+ com.rabbitmq.config.RabbitMQConfig
