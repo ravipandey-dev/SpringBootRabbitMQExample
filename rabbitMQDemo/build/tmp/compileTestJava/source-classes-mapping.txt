@@ -1,2 +1,0 @@
-com/rabbitmq/rabbitMQDemo/RabbitMqDemoApplicationTests.java
- com.rabbitmq.rabbitMQDemo.RabbitMqDemoApplicationTests
